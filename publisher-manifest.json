@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4588f12d35375c54713c7d71",
+  "owner": "cqbuwhkptvc",
+  "repo": "page-a0f6838b1f8eb47771d36426",
+  "title": "clashmi苹果",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a0f6838b1f8eb47771d36426",
+      "a": "clashmi苹果",
+      "b": "",
+      "entity": "clashmi苹果",
+      "brand": "clashmi苹果",
+      "separator": "",
+      "path": "index.html",
+      "hash": "09f47e50e8b6c55c6fff266b7621ce8a3d3c89882acb59397208c72af5ca0e20",
+      "content": {
+        "keyword1": "clashmi苹果",
+        "keyword2": "",
+        "primary_entity": "clashmi苹果",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi苹果 苹果设备专属 VPN 加速器，客户端下载和机场订阅服务。提供基础版、旗舰版、团队版多种方案，解锁流媒体和游戏加速。",
+          "AI_DESCRIPTION": "clashmi苹果 苹果设备专属 VPN 加速器，客户端下载和机场订阅服务。提供基础版、旗舰版、团队版多种方案，解锁流媒体和游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n\n    <main>\n        <h1>clashmi苹果</h1>\n        <section>\n            <h2>什么是 clashmi苹果</h2>\n            <p>clashmi苹果 是一款专为苹果设备优化的 VPN 加速器服务。通过先进的 Clash 协议技术，为用户提供稳定高效的网络加速方案。无论在家办公、畅享流媒体还是在线游戏，都能获得极致的加速体验。我们致力于打造便捷的 X VPN 机场订阅和客户端下载体验。</p>\n        </section>\n        <section>\n            <h2>适用场景</h2>\n            <ul>\n                <li>流媒体追剧：解锁 Netflix、YouTube、Disney+ 等平台内容</li>\n                <li>游戏加速：IPLC 专线优化在线游戏延迟</li>\n                <li>远程办公：安全稳定连接办公网络</li>\n                <li>公共WiFi 隐私保护：加密传输</li>\n                <li>多设备使用：支持多台苹果设备同时在线</li>\n            </ul>\n        </section>\n        <section>\n            <h2 id=\"config\">配置流程</h2>\n            <ol>\n                <li>访问 <a href=\"#config\">官网</a> 下载适用于苹果设备的 Clash 客户端</li>\n                <li>选择订阅方案并完成支付，获取订阅链接</li>\n                <li>在 Clash 客户端中导入订阅地址</li>\n                <li>选择节点连接，即可享受加速服务</li>\n                <li>支持 3-20 台设备同时在线，根据方案而定</li>\n            </ol>\n        </section>\n        <section>\n            <h2 id=\"pricing\">订阅方案</h2>\n            <div>\n                <div>\n                    <h3>基础版</h3>\n                    <p>¥15/月 <span>（按年付仅需 ¥150/年）</span></p>\n                    <ul>\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div>\n                    <div>推荐</div>\n                    <h3>旗舰版</h3>\n                    <p>¥35/月 <span>（按年付仅需 ¥350/年）</span></p>\n                    <ul>\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div>\n                    <h3>团队版</h3>\n                    <p>¥85/月 <span>（按年付仅需 ¥850/年）</span></p>\n                    <ul>\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n            <p>* 所有方案支持 X机场订阅 和 客户端下载</p>\n        </section>\n        <section>\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是 clashmi苹果？</summary>\n                <p>clashmi苹果 是苹果设备专用的 VPN 加速器，提供专业的 X VPN 机场订阅服务和客户端下载。支持多种方案，助力用户畅享稳定网络。</p>\n            </details>\n            <details>\n                <summary>如何下载 clashmi苹果 客户端？</summary>\n                <p>访问官网，点击下载适用于苹果设备的客户端软件。支持最新版本，操作简单易懂。</p>\n            </details>\n            <details>\n                <summary>支持哪些流媒体解锁？</summary>\n                <p>旗舰版及以上方案支持全节点原生流媒体解锁，包括 Netflix、YouTube 等主流平台。</p>\n            </details>\n            <details>\n                <summary>团队版有何优势？</summary>\n                <p>团队版提供每月 1000GB 流量，支持 20 台设备同时在线，VIP 高带宽节点，企业定制路由和专属客户经理服务。</p>\n            </details>\n            <details>\n                <summary>售后服务如何？</summary>\n                <p>我们提供 7x24 优先工单支持，专业团队在线解答用户疑问，确保使用无忧。</p>\n            </details>\n        </section>\n        <footer>\n            <p>© 2024 clashmi苹果 官网 | <a href=\"#pricing\">订阅方案</a> | <a href=\"#config\">客户端下载</a></p>\n            <p>友情链接： <a href=\"#\">X机场</a> | <a href=\"#\">VPN 加速</a></p>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "d4cfde3b76c210549491e28eb3b05071f1cea0c48b4f678bfb16b3f644d4f471",
+          "seo": {
+            "title": "clashmi苹果 苹果 VPN 加速器 客户端下载 官网",
+            "keywords": "clashmi苹果, 苹果加速器, VPN客户端下载, 机场订阅, X VPN",
+            "description": "clashmi苹果 苹果设备专属 VPN 加速器，客户端下载和机场订阅服务。提供基础版、旗舰版、团队版多种方案，解锁流媒体和游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "902cwq.cn",
+    "host": "p-15cb0d070e.902cwq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ce7394da18b4e7f18d9d68b677a292b2a7a4123658124eab66127db519295928",
+    "sitemap.xml": "6dbc100d6fc3901bb8666726f0946cc2c8acb5f33c3db753d1aac23b4cff9330",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4be5a34840f0532d25b34661984d44a257b735a8c8b3a833974a7c063e9b649f",
+    "robots.txt": "0cd9c514698825b91c5a81b7758a1187abf94c07412cef16b0642ddeb1047005",
+    "d0eb79232cc71f3ffcc656a85287bc57.txt": "8c93d0241cce5ecc984b5b70c80b4b575a8046b15397f92311dfa9831b84ec46"
+  },
+  "revision": "b568e7a8c42145d0e468b2576cba4bba3a7441cdb2f8460a55cf478d9e7ea61a"
+}
